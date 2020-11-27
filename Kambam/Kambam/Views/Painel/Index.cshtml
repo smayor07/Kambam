@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Modelo.Classes.Projeto>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+
+    </div>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.ProjetoId }) |
+                @Html.ActionLink("Details", "Details", new { id=item.ProjetoId }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.ProjetoId })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

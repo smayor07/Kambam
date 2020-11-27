@@ -1,0 +1,75 @@
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Modelo.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Modelo.dll.config
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Persistencia.dll.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Persistencia.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Persistencia.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Modelo.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Modelo.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Modelo.dll.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Persistencia.dll.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Persistencia.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Persistencia.pdb
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Modelo.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Modelo.pdb
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\Modelo.dll.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\aliss\Desktop\Kambam\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\aliss\Desktop\Kambam\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\aliss\Desktop\Kambam\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\aliss\Desktop\Kambam\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\aliss\Desktop\Kambam\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aliss\Desktop\Kambam\Persistencia\bin\Debug\Modelo.dll
+C:\Users\aliss\Desktop\Kambam\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\aliss\Desktop\Kambam\Persistencia\bin\Debug\Modelo.dll.config
+C:\Users\aliss\Desktop\Kambam\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\aliss\Desktop\Kambam\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aliss\Desktop\Kambam\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\aliss\Desktop\Kambam\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\Kambam\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\aliss\Desktop\Kambam\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\aliss\Desktop\Kambam\Persistencia\obj\Debug\Persistencia.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\bin\Debug\Persistencia.dll.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\bin\Debug\Persistencia.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\bin\Debug\Persistencia.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\bin\Debug\EntityFramework.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\bin\Debug\Modelo.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\bin\Debug\Modelo.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\bin\Debug\Modelo.dll.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\bin\Debug\EntityFramework.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\obj\Debug\Persistencia.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Persistencia\obj\Debug\Persistencia.pdb

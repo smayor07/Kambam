@@ -1,0 +1,550 @@
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\ApplicationInsights.config
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Kambam.dll.config
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Kambam.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Kambam.pdb
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csc.exe
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csc.exe.config
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csc.rsp
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csi.exe
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csi.exe.config
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csi.rsp
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.AppContext.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Console.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Claims.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Threading.Thread.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\vbc.exe
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\vbc.exe.config
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\vbc.rsp
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Antlr3.Runtime.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.Web.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.ApplicationInsights.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Helpers.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Mvc.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Optimization.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Razor.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Razor.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\WebGrease.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Helpers.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Mvc.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Optimization.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Razor.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Razor.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Antlr3.Runtime.pdb
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.ApplicationInsights.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.Web.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Aplicacao.csproj.CopyComplete
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Kambam.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Kambam.pdb
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Modelo.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Servicos.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Persistencia.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Modelo.pdb
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Modelo.dll.config
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Servicos.pdb
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Persistencia.pdb
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Persistencia.dll.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Aplicacao.csprojAssemblyReference.cache
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Kambam.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Kambam.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\ApplicationInsights.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Kambam.dll.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Kambam.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Kambam.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csc.exe
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csc.exe.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csc.rsp
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csi.exe
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csi.exe.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csi.rsp
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.AppContext.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Collections.Immutable.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Console.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Diagnostics.Process.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.Compression.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.Pipes.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Reflection.Metadata.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.AccessControl.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Claims.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Threading.Thread.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.ValueTuple.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.XPath.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\vbc.exe
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\vbc.exe.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\vbc.rsp
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\VBCSCompiler.exe
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\VBCSCompiler.exe.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Antlr3.Runtime.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.SqlServer.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.DependencyCollector.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.Web.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.WindowsServer.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.ApplicationInsights.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.Web.Infrastructure.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Modelo.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Newtonsoft.Json.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Servicos.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Helpers.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Mvc.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Optimization.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Razor.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Deployment.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Razor.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\WebGrease.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Persistencia.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Modelo.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Modelo.dll.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Servicos.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.SqlServer.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Helpers.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Mvc.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Optimization.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Razor.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Deployment.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Razor.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Antlr3.Runtime.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Newtonsoft.Json.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.ApplicationInsights.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.DependencyCollector.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.WindowsServer.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.Web.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Persistencia.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Persistencia.dll.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Razor.resources.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Aplicacao.csproj.CopyComplete
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\ApplicationInsights.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Kambam.dll.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Kambam.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Kambam.pdb
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csc.exe
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csc.exe.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csc.rsp
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csi.exe
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csi.exe.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\csi.rsp
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.AppContext.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Collections.Immutable.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Console.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Diagnostics.Process.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.Compression.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.IO.Pipes.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Reflection.Metadata.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.AccessControl.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Claims.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Threading.Thread.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.ValueTuple.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.XPath.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\vbc.exe
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\vbc.exe.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\vbc.rsp
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\VBCSCompiler.exe
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\roslyn\VBCSCompiler.exe.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Antlr3.Runtime.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.SqlServer.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.DependencyCollector.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.Web.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.WindowsServer.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.ApplicationInsights.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.Web.Infrastructure.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Modelo.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Newtonsoft.Json.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Servicos.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Helpers.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Mvc.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Optimization.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Razor.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Deployment.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Razor.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\WebGrease.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Persistencia.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Modelo.pdb
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Modelo.dll.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Servicos.pdb
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\EntityFramework.SqlServer.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Helpers.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Mvc.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Optimization.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.Razor.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Deployment.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\System.Web.WebPages.Razor.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Antlr3.Runtime.pdb
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Newtonsoft.Json.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.ApplicationInsights.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.DependencyCollector.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.WindowsServer.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Microsoft.AI.Web.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Persistencia.pdb
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\Persistencia.dll.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.Razor.resources.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Aplicacao.csprojResolveAssemblyReference.cache
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Aplicacao.csproj.CopyComplete
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Kambam.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Kambam\obj\Debug\Kambam.pdb
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\ApplicationInsights.config
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Kambam.dll.config
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Kambam.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Kambam.pdb
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\csc.exe
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\csc.exe.config
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\csc.rsp
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\csi.exe
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\csi.exe.config
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\csi.rsp
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.AppContext.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Console.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.IO.Compression.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Security.Claims.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.ValueTuple.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\vbc.exe
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\vbc.exe.config
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\vbc.rsp
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\VBCSCompiler.exe
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Antlr3.Runtime.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\EntityFramework.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\EntityFramework.SqlServer.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.AI.Web.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.ApplicationInsights.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Modelo.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Newtonsoft.Json.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Servicos.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.Helpers.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.Mvc.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.Optimization.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.Razor.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.WebPages.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.WebPages.Razor.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\WebGrease.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Persistencia.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Modelo.pdb
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Modelo.dll.config
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Servicos.pdb
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\EntityFramework.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\EntityFramework.SqlServer.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.Helpers.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.Mvc.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.Optimization.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.Razor.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.WebPages.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\System.Web.WebPages.Razor.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Antlr3.Runtime.pdb
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Newtonsoft.Json.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.ApplicationInsights.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Microsoft.AI.Web.xml
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Persistencia.pdb
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\Persistencia.dll.config
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\obj\Debug\Aplicacao.csprojAssemblyReference.cache
+C:\Users\aliss\Desktop\Kambam\Kambam\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\Kambam\Kambam\obj\Debug\Aplicacao.csproj.CopyComplete
+C:\Users\aliss\Desktop\Kambam\Kambam\obj\Debug\Kambam.dll
+C:\Users\aliss\Desktop\Kambam\Kambam\obj\Debug\Kambam.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\ApplicationInsights.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Kambam.dll.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Kambam.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Kambam.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\csc.exe
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\csc.exe.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\csc.rsp
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\csi.exe
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\csi.exe.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\csi.rsp
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.AppContext.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Collections.Immutable.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Console.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Diagnostics.Process.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.IO.Compression.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.IO.Pipes.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Reflection.Metadata.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Security.AccessControl.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Security.Claims.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Threading.Thread.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.ValueTuple.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Xml.XPath.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\vbc.exe
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\vbc.exe.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\vbc.rsp
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\VBCSCompiler.exe
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\roslyn\VBCSCompiler.exe.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Antlr3.Runtime.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\EntityFramework.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\EntityFramework.SqlServer.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.AI.DependencyCollector.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.AI.Web.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.AI.WindowsServer.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.ApplicationInsights.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.Web.Infrastructure.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Modelo.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Newtonsoft.Json.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Servicos.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.Helpers.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.Mvc.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.Optimization.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.Razor.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.WebPages.Deployment.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.WebPages.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.WebPages.Razor.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\WebGrease.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Persistencia.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Modelo.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Modelo.dll.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Servicos.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\EntityFramework.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\EntityFramework.SqlServer.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.Helpers.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.Mvc.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.Optimization.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.Razor.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.WebPages.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.WebPages.Deployment.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\System.Web.WebPages.Razor.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Antlr3.Runtime.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Newtonsoft.Json.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.ApplicationInsights.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.AI.DependencyCollector.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.AI.WindowsServer.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Microsoft.AI.Web.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Persistencia.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\Persistencia.dll.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\pt-br\System.Web.Razor.resources.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\obj\Debug\Aplicacao.csprojAssemblyReference.cache
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\obj\Debug\Aplicacao.csproj.CopyComplete
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\obj\Debug\Kambam.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Kambam\obj\Debug\Kambam.pdb

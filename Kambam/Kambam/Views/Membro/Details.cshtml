@@ -1,0 +1,42 @@
+﻿@model Modelo.Classes.Membro
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Membro</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Nome_membro)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Nome_membro)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Cor_membro)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Cor_membro)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.MembroId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

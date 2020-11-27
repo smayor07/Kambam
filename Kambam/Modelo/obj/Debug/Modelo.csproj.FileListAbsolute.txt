@@ -1,0 +1,60 @@
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\Modelo.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\Modelo.pdb
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.dll
+C:\Users\andre\Desktop\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\Modelo.dll.config
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\Modelo.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\Modelo.pdb
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.dll
+E:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.pdb
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\Modelo.dll.config
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\Modelo.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\Modelo.pdb
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.dll
+D:\Unifenas\5º Período\Ferramentas de Desenvolvimento\Trabalho\Kambam\Modelo\obj\Debug\Modelo.pdb
+C:\Users\aliss\Desktop\Kambam\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\aliss\Desktop\Kambam\Modelo\bin\Debug\Modelo.dll
+C:\Users\aliss\Desktop\Kambam\Modelo\bin\Debug\Modelo.pdb
+C:\Users\aliss\Desktop\Kambam\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\aliss\Desktop\Kambam\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aliss\Desktop\Kambam\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\aliss\Desktop\Kambam\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aliss\Desktop\Kambam\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\aliss\Desktop\Kambam\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\aliss\Desktop\Kambam\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\aliss\Desktop\Kambam\Modelo\obj\Debug\Modelo.dll
+C:\Users\aliss\Desktop\Kambam\Modelo\obj\Debug\Modelo.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\bin\Debug\Modelo.dll.config
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\bin\Debug\Modelo.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\bin\Debug\Modelo.pdb
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\bin\Debug\EntityFramework.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\bin\Debug\EntityFramework.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\obj\Debug\Modelo.dll
+D:\Meus Documentos\Unifenas\5º PERÍODO\Ferramentas de Desenvolvimento\Kambam\Modelo\obj\Debug\Modelo.pdb
